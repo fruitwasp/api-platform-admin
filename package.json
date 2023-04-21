@@ -18,7 +18,7 @@
   "license": "MIT",
   "sideEffects": false,
   "dependencies": {
-    "@api-platform/api-doc-parser": "^0.16.1",
+    "@api-platform/api-doc-parser": "github:fruitwasp/api-platform-api-doc-parser#11207823a046bc0d8425c2feef2b3c98dea36f59",
     "history": "^5.0.0",
     "jsonld": "^8.1.0",
     "lodash.isplainobject": "^4.0.6",
