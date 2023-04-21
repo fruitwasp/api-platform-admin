@@ -96,6 +96,7 @@ export interface HttpClientOptions {
   };
   method?: string;
   body?: XMLHttpRequestBodyInit;
+  credentials?: RequestCredentials;
 }
 
 export interface HttpClientResponse {
